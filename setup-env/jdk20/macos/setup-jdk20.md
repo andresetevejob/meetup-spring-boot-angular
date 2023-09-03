@@ -10,7 +10,7 @@
 ## 2 - Installez une version spécifique tapez les commandes suivantes : 
 ```
   - brew tap homebrew/cask-versions
-  -  brew install --cast temurin20
+  - brew install --cast temurin20
 
 ```
 
