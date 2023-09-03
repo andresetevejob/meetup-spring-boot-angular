@@ -23,7 +23,7 @@
   export JAVA_HOME="/Library/Java/JavaVirtualMachines/temurin-20.jdk/Contents/Home"
   - Enregistrer la modification en tapant successivement : "ESC ensuite :wq!"
 
-NB : Pour un shell bash veuillez executer la commande vi ~/.bashrc, le reste du processus reste pareille à celui ci-dessus.
+NB : Pour un shell bash veuillez executer la commande vi ~/.bashrc, le reste du processus reste identique à celui ci-dessus.
   
 ```
 
