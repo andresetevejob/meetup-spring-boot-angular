@@ -1,0 +1,1 @@
+https://hackernoon.com/how-to-install-mysql-8-on-macos-using-homebrew
