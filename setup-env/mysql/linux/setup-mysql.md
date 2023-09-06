@@ -1,4 +1,4 @@
-# INSTALLATION MYSQL
+# INSTALLATION MYSQL (UBUNTU)
 
 ## 1 - Téléchargement du repositories
 ```
