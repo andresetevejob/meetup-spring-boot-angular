@@ -1,0 +1,3 @@
+Verb HTTP : DELETE
+
+/id
