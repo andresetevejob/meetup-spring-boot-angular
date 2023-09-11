@@ -20,7 +20,5 @@
 
 
 ## 4 - Ressources
-```
- Vous pouvez réjoindre le serveur discord suivant : 
- [Link text]https://discord.gg/NwNyFsKqwQ
-```
+
+ <p>Rejoindre <a href="https://discord.gg/NwNyFsKqwQ">le serveur discrod</a></p>
